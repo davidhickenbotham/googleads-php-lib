@@ -1,3 +1,5 @@
+; Copy this file to auth.ini and modify the values below to your specific implementation.
+;
 ; Detailed descriptions of these properties can be found at:
 ; https://developers.google.com/adwords/api/docs/headers
 
